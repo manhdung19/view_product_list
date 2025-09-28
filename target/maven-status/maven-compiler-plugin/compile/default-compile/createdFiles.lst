@@ -1,0 +1,5 @@
+com\mycompany\mavenproject2\resources\Login.class
+data\connectDatabase.class
+com\mycompany\mavenproject2\JakartaRestConfiguration.class
+com\mycompany\mavenproject2\resources\JakartaEE11Resource.class
+data\ProductDAO.class
