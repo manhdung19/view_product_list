@@ -37,7 +37,7 @@ public class Login extends HttpServlet {
         out.println("<img src='https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m0ohi06zj6ctd6' alt='Quần jeans' style='width:100%; border-radius: 8px;'>");
         out.println("<h2>" + name + "</h2>");
         out.println("<p><strong>Giá:</strong> " + price + "</p>");
-        out.println("<p><strong>Số lượng:</strong> " + quantity + "</p>");
+        out.println("<p><strong>Số lượng hihi haha:</strong> " + quantity + "</p>");
         out.println("</div>");
         out.println("</body></html>");
     }
